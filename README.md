@@ -1,3 +1,3 @@
 ## 展示
 
-![image](https://github.com/hahchenchen/readmetest/raw/master/docs/arch.png)
+![image](https://github.com/hahchenchen/readmetest/raw/main/docs/arch.png)
